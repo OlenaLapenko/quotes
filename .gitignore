@@ -1,0 +1,17 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+.idea/
+
+# Backup files #
+*.bak
+
+# pyenv
+.python-version
+
+# celery
+celerybeat-schedule.*
+
+Pipfile.lock
